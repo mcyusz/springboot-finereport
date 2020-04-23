@@ -1,0 +1,11 @@
+application:
+  version: 0.0.1
+
+spring:
+  application:
+    name: springboot-finereport
+  main:
+    banner-mode: console
+  banner:
+    charset: UTF-8
+    location: classpath:banner.txt
